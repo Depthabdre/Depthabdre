@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abdrehim 👋</h1>
 
 <p align="center">
-  <em>Software Engineering Student @ AASTU | Full-Stack Developer | Lifelong Learner 🚀</em>
+  <em>Software Engineering Student @ AASTU | Full-Stack Developer </em>
 </p>
 
 ---
