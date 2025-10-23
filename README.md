@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abdrehim 👋</h1>
 
 <p align="center">
-  <em>Software Engineering Student @ AASTU | Flutter Developer | A2SV Fellow</em>
+  <em>Software Engineering Student @ AASTU | Full-Stack Developer | Flutter Enthusiast | A2SV Fellow</em>
 </p>
 
 ---
@@ -10,10 +10,10 @@
 
 - 🎓 Software Engineering student at **Addis Ababa Science and Technology University (AASTU)**  
   - **CGPA: 3.93 / 4.00** — consistently on the **President’s List** for academic excellence.  
-- 🌍 Passionate about **mobile app development**, **clean architecture**, and creating **user-centered digital experiences**.  
-- 💡 I believe in writing **clean, scalable, and maintainable code** that brings real value to users.  
-- 📱 Currently focused on mastering **Flutter** and **building cross-platform apps** that combine performance and design.  
-- 🧠 I value **continuous learning** and explore both the **technical** and **human** sides of software development.  
+- 💻 I’m a **Full-Stack Developer** passionate about creating meaningful digital experiences that connect people and solve real-world problems.  
+- 📱 I specialize in **Flutter** for mobile and **Next.js / Node.js** for web applications.  
+- 🧠 Strong believer in **clean architecture**, **scalable systems**, and **continuous learning**.  
+- 💬 I enjoy blending design, functionality, and problem-solving to build software that’s both **beautiful** and **impactful**.  
 
 ---
 
@@ -33,32 +33,36 @@
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white"/>
 
 <br/>
 
 <!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br/>
 
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </div>
 
 ---
 
-### 📱 Flutter Focus  
+### ⚙️ What I’m Focused On  
 
-- 🧩 Working on **building modern cross-platform apps** with **Flutter** and **Dart**.  
-- 🏗️ Learning and applying **Clean Architecture** and **BLoC pattern** for better code structure.  
-- 🎨 Exploring **UI/UX best practices** to design smooth, intuitive, and accessible mobile experiences.  
-- ⚙️ Continuously improving **state management**, **API integration**, and **performance optimization**.  
+- 📱 Building **cross-platform mobile apps** with **Flutter** and **Dart**  
+- 🌐 Developing **scalable full-stack web apps** using **Next.js**, **Node.js**, and **Express.js**  
+- 🧩 Applying **Clean Architecture** and **BLoC pattern** to write maintainable, testable code  
+- ☁️ Learning **backend optimization**, **API design**, and **system scalability**  
+- 🎨 Designing modern, accessible UIs that deliver smooth and intuitive user experiences  
 
 ---
 
@@ -72,9 +76,9 @@
 
 ### 🌱 Currently Working On  
 
-- Deepening my expertise in **Flutter** and **mobile architecture patterns**.  
-- Building apps that combine **beautiful UI**, **high performance**, and **scalable structure**.  
-- Expanding knowledge in **system design** and **clean coding principles**.  
+- Mastering **Full-Stack Flutter & Web Development**  
+- Exploring **backend architecture**, **API integration**, and **database design**  
+- Building apps that combine **performance**, **aesthetics**, and **purpose**  
 
 ---
 
