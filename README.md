@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abdrehim 👋</h1>
 
 <p align="center">
-  <em>Software Engineering Student @ AASTU | Full-Stack Developer | Flutter Enthusiast | A2SV Fellow</em>
+  <em>Software Engineering Student @ AASTU | Full-Stack Developer | A2SV Fellow</em>
 </p>
 
 ---
@@ -59,8 +59,7 @@
 ### ⚙️ What I’m Focused On  
 
 - 📱 Building **cross-platform mobile apps** with **Flutter** and **Dart**  
-- 🌐 Developing **scalable full-stack web apps** using **Next.js**, **Node.js**, and **Express.js**  
-- 🧩 Applying **Clean Architecture** and **BLoC pattern** to write maintainable, testable code  
+- 🌐 Developing **scalable full-stack web apps** using **Next.js**, **Node.js**, and **Express.js**   
 - ☁️ Learning **backend optimization**, **API design**, and **system scalability**  
 - 🎨 Designing modern, accessible UIs that deliver smooth and intuitive user experiences  
 
