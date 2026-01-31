@@ -8,17 +8,17 @@
 
 ### 👨‍💻 about me  
 
-hey! i'm a software engineering student at **AASTU**. i spend most of my time building things and trying to figure out how to make software that actually matters. 
+hey! i'm a software engineering student at **AASTU**. i spend most of my time building things and trying to figure out how to make software that actually matters and helps people. 
 
-lately, i’ve been really focused on **mobile development**—it’s my main thing. but i also work on the **backend** side to keep everything running properly. i'm also pretty big on **ui/ux** because i think how an app feels is just as important as how it works.
+lately, i’ve been really focused on **mobile development**—it’s my main thing. but i also work on the **backend** side to keep everything running properly. for me, it's not about making things look fancy, it's about making sure they actually work and solve real problems.
 
 when i'm not building apps, i'm usually on **leetcode** or **codeforces** trying to sharpen my problem-solving skills and learn how to write more efficient code.
 
 - 🎓 student at aastu — somehow managed a **3.93 gpa** so far, just trying to keep learning.
 - 📱 **mobile dev is the core** — i'm all in on **Flutter** right now.
-- ⚙️ **backend & web** — i use **Node**, **Express**, and **PostgreSQL** to build solid systems.
-- 🎨 **ui/ux** — i care a lot about clean designs and making things easy for people to use.
+- ⚙️ **backend & web** — i use **Node**, **Express**, and **PostgreSQL** to build solid, useful systems.
 - 🧠 **problem solving** — constantly practicing on leetcode and codeforces to stay sharp.
+- 🛠️ **impact** — i just want to build software that is actually beneficial for users.
 
 ---
 
@@ -27,11 +27,10 @@ when i'm not building apps, i'm usually on **leetcode** or **codeforces** trying
 <div align="center">
 
 <!-- Mobile - The Main Focus -->
-**main focus (mobile & design)**  
+**main focus (mobile dev)**  
 <br/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <br/><br/>
 
@@ -59,9 +58,9 @@ when i'm not building apps, i'm usually on **leetcode** or **codeforces** trying
 ### ⚙️ what i’m working on  
 
 - 📱 getting better at **flutter** and mobile architecture every day.
-- 🎨 polishing my **ui/ux** skills to make apps look more professional.
 - 🌐 building scalable **backend** systems with **postgresql** and node.
 - 🧠 solving problems on **codeforces/leetcode** to enhance my logical thinking.
+- 🛠️ focusing on building tools that actually make life easier for people.
 
 ---
 
@@ -70,14 +69,14 @@ when i'm not building apps, i'm usually on **leetcode** or **codeforces** trying
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DepthAbdre&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abdrehim's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DepthAbdre&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DepthAbdre&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 let’s connect  
 
-always down to chat about mobile dev, design, or just life at aastu.
+always down to chat about mobile dev, problem solving, or just life at aastu.
 
 - 💬 telegram: [@DepthAbdre](https://t.me/DepthAbdre)
 - 💼 linkedin: [abdrehim-misbah](https://www.linkedin.com/in/abdrehim-misbah/)
