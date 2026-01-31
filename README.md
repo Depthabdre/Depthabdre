@@ -1,94 +1,81 @@
-<h1 align="center">Hi there, I'm Abdrehim 👋</h1>
+<h1 align="center">hey, i'm abdrehim 👋</h1>
 
 <p align="center">
-  <em>Software Engineering Student @ AASTU | Full-Stack Developer | A2SV Fellow</em>
+  <em>software engineering student @ aastu | a2sv fellow</em>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
+### 👨‍💻 about me  
 
-- 🎓 Software Engineering student at **Addis Ababa Science and Technology University (AASTU)**  
-  - **CGPA: 3.93 / 4.00** — consistently on the **President’s List** for academic excellence.  
-- 💻 I’m a **Full-Stack Developer** passionate about creating meaningful digital experiences that connect people and solve real-world problems.  
-- 📱 I specialize in **Flutter** for mobile and **Next.js / Node.js** for web applications.  
-- 🧠 Strong believer in **clean architecture**, **scalable systems**, and **continuous learning**.  
-- 💬 I enjoy blending design, functionality, and problem-solving to build software that’s both **beautiful** and **impactful**.  
+hey! i'm a software engineering student at **AASTU**. i spend most of my time building things and trying to figure out how to make software that actually matters. 
+
+lately, i’ve been really focused on **mobile development**—it’s my main thing. but i also work on the **backend** side to keep everything running properly. i'm also pretty big on **ui/ux** because i think how an app feels is just as important as how it works.
+
+- 🎓 student at aastu — somehow managed a **3.93 gpa** so far, just trying to keep learning.
+- 📱 **mobile dev is the core** — i'm all in on **Flutter** right now.
+- ⚙️ i also handle **backend & web** (next.js, node, express) to build full systems.
+- 🎨 **ui/ux** — i care a lot about clean designs and making things easy for people to use.
 
 ---
 
-### 🚀 Tech Stack & Skills  
+### 🚀 tech i use  
 
 <div align="center">
 
-<!-- Mobile -->
+<!-- Mobile - The Main Focus -->
+**main focus (mobile & design)**  
+<br/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
+<br/><br/>
+
+**backend & web**  
 <br/>
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white"/>
-
-<br/>
-
-<!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
+<br/><br/>
+
+**other languages**  
 <br/>
-
-<!-- Programming Languages -->
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
 ---
 
-### ⚙️ What I’m Focused On  
+### ⚙️ what i’m working on  
 
-- 📱 Building **cross-platform mobile apps** with **Flutter** and **Dart**  
-- 🌐 Developing **scalable full-stack web apps** using **Next.js**, **Node.js**, and **Express.js**   
-- ☁️ Learning **backend optimization**, **API design**, and **system scalability**  
-- 🎨 Designing modern, accessible UIs that deliver smooth and intuitive user experiences  
+- 📱 getting better at **flutter** and mobile architecture every day.
+- 🎨 polishing my **ui/ux** skills to make apps look more professional.
+- 🌐 building scalable **backend** systems that don't break lol.
+- 🧠 solving problems and learning new ways to write cleaner code.
 
 ---
 
-### 📈 GitHub Stats  
+### 📈 github stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DepthAbdre&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DepthAbdre&show_icons=true&theme=radical&hide_border=true" alt="Abdrehim's GitHub stats" />
 </p>
 
 ---
 
-### 🌱 Currently Working On  
+### 📫 let’s connect  
 
-- Mastering **Full-Stack Flutter & Web Development**  
-- Exploring **backend architecture**, **API integration**, and **database design**  
-- Building apps that combine **performance**, **aesthetics**, and **purpose**  
+always down to chat about mobile dev, design, or just life at aastu.
 
----
-
-### 📫 Let’s Connect  
-
-- 📧 [abdellaabdre@gmail.com](mailto:abdellaabdre@gmail.com)  
-- 💬 [@DepthAbdre](https://t.me/DepthAbdre) on Telegram  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdrehim-misbah/)  
-- 💻 [GitHub](https://github.com/DepthAbdre)  
+- 💬 telegram: [@DepthAbdre](https://t.me/DepthAbdre)
+- 💼 linkedin: [abdrehim-misbah](https://www.linkedin.com/in/abdrehim-misbah/)
+- 📧 email: [abdellaabdre@gmail.com](mailto:abdellaabdre@gmail.com)
 
 ---
 
-> *"Every moment is an end by itself."*  
-> — Abdrehim Misbah
+> *"we aren't given anything we can't handle."*
